@@ -10,8 +10,6 @@ This template is designed to follow up with candidates who have not responded to
 
 Hi **[Candidate Name]**,
 
-I hope you're doing well.
-
 I wanted to follow up on my previous message regarding the **[Job Title]** opportunity with **[Company Name]**. I understand you may have had a busy schedule, so I thought I'd reach out once more.
 
 Based on your experience in **[Technology/Skill/Domain]**, I genuinely believe your background aligns well with what we're looking for. The role offers the opportunity to contribute to **[brief project, product, or business initiative]** while working with a collaborative team and solving meaningful challenges.
